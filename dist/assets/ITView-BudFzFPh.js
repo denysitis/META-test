@@ -1,0 +1,1 @@
+import{_ as t,c,a as e,t as o,o as a}from"./index-Bo6MQBeX.js";const n={},r={class:"view-stub"},i={class:"container"};function _(s,l){return a(),c("div",r,[e("div",i,[e("h2",null,o(s.$t("menu.it")),1)])])}const f=t(n,[["render",_]]);export{f as default};

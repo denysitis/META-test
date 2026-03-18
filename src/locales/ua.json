@@ -1,0 +1,47 @@
+{
+    "header": {
+        "profile": "Мій профіль",
+        "comments": "Мої коментарі",
+        "logout": "Вихід"
+    },
+    "menu": {
+        "news": "Новини",
+        "sport": "Спорт",
+        "finance": "Фінанси",
+        "showbiz": "Шоубіз",
+        "lifestyle": "Лайфстайл",
+        "it": "IT",
+        "auto": "Авто",
+        "regions": "Регіони",
+        "stakes": "Ставки",
+        "health": "Здоров'я",
+        "main": "Головна",
+        "incidents": "Події",
+        "society": "Суспільство",
+        "economy": "Економіка",
+        "politics": "Політика",
+        "education": "Освіта",
+        "medicine": "Медицина",
+        "video": "Відео",
+        "photo": "Фото",
+        "entertainment": "Розваги",
+        "more": "Ще"
+    },
+    "home": {
+        "main_news": "Головне",
+        "sidebar_news": "Головне",
+        "top_tags": "Популярні теги",
+        "more_news": "Більше новин"
+    },
+    "sidebar": {
+        "rubrics": "Рубрики",
+        "projects": "Проекти мета",
+        "project_mail": "Пошта",
+        "project_weather": "Погода",
+        "project_tv": "ТВ-програма",
+        "project_maps": "Карти",
+        "project_translator": "Перекладач",
+        "dark_theme": "Темна тема",
+        "news_text": "Текст новин"
+    }
+}

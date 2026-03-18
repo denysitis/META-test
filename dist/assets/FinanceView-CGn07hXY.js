@@ -1,0 +1,1 @@
+import{_ as n,c as t,a as e,t as c,o as a}from"./index-Bo6MQBeX.js";const o={},i={class:"view-stub"},r={class:"container"};function _(s,l){return a(),t("div",i,[e("div",r,[e("h2",null,c(s.$t("menu.finance")),1)])])}const f=n(o,[["render",_]]);export{f as default};
